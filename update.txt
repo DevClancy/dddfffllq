@@ -6,3 +6,4 @@
 - Anti-bruteforce.
 - Freestanding.
 - Custom settings dt.
+- Custom clantag.
