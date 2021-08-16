@@ -1,0 +1,8 @@
+- New menu.
+- New resolver.
+- New watermark.
+- New keybinds.
+- New auto peek.
+- Anti-bruteforce.
+- Freestanding.
+- Custom settings dt.
